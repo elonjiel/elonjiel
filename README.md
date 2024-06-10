@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elonjiel
+- 👋 Hi, I’m Elon Jiel!
 - 👀 I’m interested in pursuing web developer career path
 - 🌱 I’m currently learning frontend and 
 - 💞️ I’m looking to collaborate on ...
