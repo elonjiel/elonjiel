@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elon Jiel!
-- 👀 I’m interested in pursuing web developer career path
-- 🌱 I’m currently learning frontend and 
+- 👀 I’m interested in pursuing web development career path
+- 🌱 I’m currently learning HTML, CSS, JS, REACT, NODEJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at elonjiel@gmail.com
 - 😄 Pronouns: elonjiel
